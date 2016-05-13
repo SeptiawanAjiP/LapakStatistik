@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kecantikan.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\kecantikan.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gagal_load_gambar.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\gagal_load_gambar.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\best.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\best.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cal.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\cal.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bird.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\bird.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alat_tulis.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\alat_tulis.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\daftar.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\daftar.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favorit.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\favorit.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_icon.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\logo_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cari.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\cari.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\makanan.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\makanan.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\komputer_aksesoris.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\komputer_aksesoris.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pakaian.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\pakaian.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keranjang.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\keranjang.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textfield.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\textfield.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\money_bag.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\money_bag.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_koneksi.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\no_koneksi.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lapak_statistik.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\lapak_statistik.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\medis.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\medis.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_corner_bg.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.daimajia.slider\\library\\1.1.5\\res\\drawable\\indicator_corner_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\belanja.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\belanja.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smartphone.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\smartphone.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sale.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\sale.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wallpaper.jpg",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\wallpaper.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grid_color_selector.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\grid_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\komputer.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\komputer.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\baru.png",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\drawable\\baru.png"
+    },
+    {
+        "merged": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Septiawan Aji\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    }
+]

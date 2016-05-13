@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:background="@drawable/grid_color_selector"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <ImageView
+            android:id="@+id/grid_kategori"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/komputer_aksesoris"
+            android:backgroundTint="#e54e11"
+            android:background="#f7eaea"/>
+    </android.support.v7.widget.CardView>
+
+    <TextView
+        android:id="@+id/grid_nama_barang"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:textSize="12sp"
+        android:text="kategori_barang"/>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </android.support.v7.widget.CardView>
+
+
+</LinearLayout>

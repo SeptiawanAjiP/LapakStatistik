@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lapak Statistik</string>
+    <string name="action_settings">Settings</string>
+    <string name="komputer">100</string>
+    <string name="pakaian">101</string>
+    <string name="smartphone">102</string>
+    <string name="accKomp">103</string>
+    <string name="makanan">104</string>
+    <string name="atul">105</string>
+    <string name="kecant">106</string>
+    <string name="medis">107</string>
+    <string name="tidakBarang">Barang Tidak Tersedia</string>
+    <string name="detailBarang">Detail Barang</string>
+    <string name="noKoneksi">Anda Tidak Terhubung Internet</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+</resources>

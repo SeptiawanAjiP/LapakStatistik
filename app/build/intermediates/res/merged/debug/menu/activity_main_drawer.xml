@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/home"
+            android:title="Home" />
+        <item
+            android:id="@+id/barang"
+            android:icon="@drawable/belanja"
+            android:title="Kategori" />
+        <item
+            android:id="@+id/keranjang"
+            android:icon="@drawable/keranjang"
+            android:title="Keranjang Belanja" />
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/about"
+            android:title="Tentang" />
+    </group>
+
+    <item android:title="Akun">
+        <menu>
+            <item
+                android:id="@+id/daftar"
+                android:icon="@drawable/daftar"
+                android:title="Daftar" />
+            <item
+                android:id="@+id/login"
+                android:icon="@drawable/login"
+                android:title="Login" />
+        </menu>
+    </item>
+
+</menu>

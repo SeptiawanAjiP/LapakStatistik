@@ -1,0 +1,28 @@
+Lapak Statistik
+--------------------------------
+Ada 3 file
+
+1. Android
+2. PHP (koneksi.php)
+3. Database (lapak.sql)
+---------------------------------
+Cara instalasi PHP dan database
+1. Nyalakan xampp
+2. Buat folder "lapak" di dalam htdocs, masukan file koneksi.php pada folder tersebut
+3. Import database lapak.sql pada phpmyadmin
+---------------------------------
+Cara instalasi file android
+1. Buka android studio
+2. File, new, import project, cari file android tersebut, lalu pilih setting.gradle
+3. Import (yang diimport setting.gradle nya)
+4. Setelah diimport biarkan sampai proses buildnya selesai,
+   butuh koneksi internet pada tahap ini
+5. Buat jaringan antara laptop dan hp android
+6. Cek alamat ip laptop
+7. Pada class AlamatUrl.java , ubah alamat ip sesuai dengan alamat ip laptop Anda
+8. Lalu coba build di hp
+---------------------------------
+
+
+
+ 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FA0</color>
+    <color name="colorPrimaryDark">#FA0</color>
+    <color name="colorAccent">#FA0</color>
+    <color name="menuUtama">#FA0</color>
+    <color name="putih">#ffffff</color>
+    <color name="textColorDaftarUser">#000000</color>
+    <color name="hitam">#060600</color>
+
+    <color name="blue">#00abea</color>
+
+
+    <color name="black">#000</color>
+    <color name="orange">#FA0</color>
+    <color name="white">#FFF</color>
+
+    <color name="satu">#1240AB</color>
+    <color name="dua">#3914AF</color>
+    <color name="tiga">#FFD300</color>
+    <color name="empat">#082362</color>
+    <color name="lima">#A9193A</color>
+
+</resources>
